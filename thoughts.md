@@ -9,3 +9,6 @@ I will also focus on taking short breaks more often. When I learn new material I
 I will also work on how I view the learning process. I normally use the learning process to get to a specific end goal and I usually aim to get there as quickly as possible. Instead I believe I would benefit from taking a slower approach and trying to soak in the material as opposed to cramming to get to my end goal.
 
 Shoutout Turing
+
+
+New Changes for Session 3
